@@ -9,6 +9,9 @@ Created by Aayush Bhatt
 ✅ Optimized Code Readability – Carefully selected syntax highlighting for high visibility.
 ✅ Blended Terminal Experience – Terminal colors harmonized with the theme.
 
+📸 Preview
+![Retro Futuristic Dark Theme](theme-screenshot.png)
+
 🎨 Color Palette
 Background: #0D111C (Deep space dark)
 Text: #F3DDCD (Soft neon beige)
@@ -17,7 +20,7 @@ Keywords: #FF79C6 (Vibrant cyberpink)
 Strings: #A1EFD3 (Electric green)
 Functions: #FFC777 (Golden amber glow)
 
-🚀 #Installation
+🚀 #Installation (If cloning from Github Repo)
 Open VS Code.
 Navigate to Extensions (Ctrl + Shift + X).
 Paste the RETRO-FUTURISTIC-DARK Folder
@@ -25,9 +28,7 @@ Open VS CODE and apply the theme
 Enjoy coding in style!
 
 🛠 Customization
-Want to personalize it? Edit the theme.json file to fine-tune the colors and make it truly yours.
-
-📸 Preview
+Want to personalize it? Edit the Retro Futuristic Dark-color-theme.json file to fine-tune the colors and make it truly yours.
 
 
 💡 Feedback & Contributions
