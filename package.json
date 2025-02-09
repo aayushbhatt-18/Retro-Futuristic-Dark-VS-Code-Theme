@@ -1,10 +1,10 @@
 {
   "name": "Retro-Futuristic-Dark-Theme",
   "publisher": "TrevorAayush",
-  "displayName": "retro-futuristic-dark",
+  "displayName": "Retro Futuristic Dark theme",
   "description": "A Retro Futuristic Dark Theme",
-  "icon": "./images/logo/retro-futuristic.png",
-  "version": "0.0.2",
+  "icon": "retro-futuristic.png",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.97.0"
   },
