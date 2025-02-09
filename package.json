@@ -3,7 +3,7 @@
   "publisher": "TrevorAayush",
   "displayName": "retro-futuristic-dark",
   "description": "A Retro Futuristic Dark Theme",
-  "icon": "./images/logo/retro-futuristic.svg",
+  "icon": "./images/logo/retro-futuristic.png",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.97.0"
