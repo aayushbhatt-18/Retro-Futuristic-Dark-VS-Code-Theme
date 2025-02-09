@@ -1,0 +1,22 @@
+{
+  "name": "Retro-Futuristic Dark Theme",
+  "publisher": "TrevorAayush",
+  "displayName": "retro-futuristic-dark",
+  "description": "A Retro Futuristic Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro Futuristic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retro Futuristic Dark-color-theme.json"
+      }
+    ]
+  }
+}
